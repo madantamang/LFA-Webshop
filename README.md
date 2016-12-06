@@ -1,4 +1,4 @@
-# LFA-Webshop
+﻿# LFA-Webshop
 This is repository which contain source code for .mvc training class held on Leapfrog academy.
 
 Create a simple project with ASP.NET Framework and publish to Github and Azure
@@ -11,3 +11,4 @@ Summary of Key Learnings
     Implement your web applications using database solutions (SQLServer)
 
 
+#Edited by Aman Shakya
