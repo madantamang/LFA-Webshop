@@ -12,4 +12,9 @@ Summary of Key Learnings
 
 
 #Edited by Aman Shakya
+<<<<<<< HEAD
 kjlkjlkjlj
+=======
+#edited by Jagadish karki
+#edited by Meharaj Maharjan
+>>>>>>> e1c2b957eb460ec4c7be1bb71e1650a6de56487a
