@@ -9,12 +9,9 @@ Summary of Key Learnings
     Learn the core concepts of an object‐oriented programming language (C#, .NET)
     Complement front‐end skills by building functional web applications using ASP.NET, MVC framework
     Implement your web applications using database solutions (SQLServer)
+    
+    
+Aman Shakya
+Jagadish karki
+ Meharaj Maharjan
 
-
-#Edited by Aman Shakya
-<<<<<<< HEAD
-kjlkjlkjlj
-=======
-#edited by Jagadish karki
-#edited by Meharaj Maharjan
->>>>>>> e1c2b957eb460ec4c7be1bb71e1650a6de56487a
