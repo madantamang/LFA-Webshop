@@ -24,7 +24,11 @@ namespace Web_codefirst.Models
 
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<Product> Products { get; set; }
+<<<<<<< HEAD
         public virtual DbSet<CustomerOrder> CustomerOrders { get; set; }
+=======
+        public virtual DbSet<Cart>  Carts { get; set; }
+>>>>>>> 7511cd15ede452d37c11ccbcfb7af88a9a5d9322
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
