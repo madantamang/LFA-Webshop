@@ -192,6 +192,7 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Migrations\SampleData.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Cart.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
