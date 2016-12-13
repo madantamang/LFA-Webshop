@@ -183,6 +183,7 @@ namespace Web_codefirst.Migrations
 
             };
             products.ForEach(p => context.Products.Add(p));
+            context.SaveChanges();
         }
     }
 }
