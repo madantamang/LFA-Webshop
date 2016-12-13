@@ -195,6 +195,7 @@
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\OrderedProductModel.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ShoppingDbContextModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
